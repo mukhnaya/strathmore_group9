@@ -1,0 +1,557 @@
+Player,Nat,Continent,Pos,Squad,Age,Wages,MP,Starts,Min,90s,Goals,Assists,Yellow Cars,Red Cards,Prog Carries,Prog Passes,Fouls Commited,Fould Drawn,Interceptions,Tackles Won,Own Goals,Recoveries,Goals Against,Saves,Save%,Saves,Save%
+Aaron Connolly,IRL,Europe,FW,Brighton,21,1200000,4,1,156,1.7,0,0,0,0,3,1,0,0,0,6,0,0,0,7,0,0,0
+Aaron Cresswell,ENG,Europe,DF,West Ham,31,2600000,31,31,2726,30.3,2,3,3,0,54,186,0.07,0.1,14,10,35,18,0,163,0,0,0
+Aaron Lennon,ENG,Europe,MF,Burnley,34,1040000,28,17,1551,17.2,2,0,2,0,38,19,0.12,0,19,20,9,17,0,73,0,0,0
+Aaron Ramsdale,ENG,Europe,GK,Arsenal,23,3220000,34,34,3060,34,0,0,1,0,0,1,0,0,0,5,0,1,0,40,39,90,73.4
+Aaron Wan-Bissaka,ENG,Europe,DF,Manchester Utd,23,4680000,20,20,1793,19.9,0,0,2,0,55,61,0,0,15,13,34,36,0,126,0,0,0
+Abdoulaye Doucouré,MLI,Africa,MF,Everton,28,3900000,30,29,2537,28.2,2,4,6,0,33,113,0.07,0.14,39,16,28,43,0,213,0,0,0
+Adam Armstrong,ENG,Europe,FW,Southampton,24,2600000,23,17,1413,15.7,2,2,1,0,39,30,0.13,0.13,13,6,3,4,0,36,0,0,0
+Adam Forshaw,ENG,Europe,MF,Leeds United,29,1040000,22,17,1530,17,0,1,5,0,19,80,0,0.06,26,15,19,23,0,119,0,0,0
+Adam Idah,IRL,Europe,FW,Norwich City,20,260000,17,6,625,6.9,1,1,0,0,11,10,0.14,0.14,7,10,3,6,0,29,0,0,0
+Adam Lallana,ENG,Europe,MF,Brighton,33,4700000,24,18,1561,17.3,0,1,4,0,17,76,0,0.06,11,17,16,17,0,126,0,0,0
+Adam Masina,MAR,Africa,DF,Watford,27,1450000,15,13,1077,12,0,1,0,0,9,37,0,0.08,14,4,18,13,0,70,0,0,0
+Adam Webster,ENG,Europe,DF,Brighton,26,1980000,22,16,1434,15.9,2,0,5,0,19,109,0.13,0,16,4,17,8,0,89,0,0,0
+Adama Traoré,ESP,Europe,FW,Wolves,25,2240000,20,10,1067,11.9,1,0,0,0,84,29,0.08,0,10,26,2,3,0,49,0,0,0
+Ademola Lookman,NGA,Africa,FW,Leicester City,23,2550000,26,16,1453,16.1,6,0,2,0,43,54,0.37,0,27,33,10,14,0,102,0,0,0
+Ainsley Maitland-Niles,ENG,Europe,MF,Arsenal,23,1820000,8,2,268,3,0,0,0,0,2,15,0,0,4,3,4,4,0,23,0,0,0
+Albert Sambi Lokonga,BEL,Europe,MF,Arsenal,21,2700000,19,12,1134,12.6,0,0,5,0,28,84,0,0,12,15,13,18,0,72,0,0,0
+Alex Iwobi,NGA,Africa,MF,Everton,25,2600000,28,22,2035,22.6,2,2,1,0,44,103,0.09,0.09,16,6,20,19,0,130,0,0,0
+Alex Král,CZE,Europe,MF,West Ham,23,1080000,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Alex McCarthy,ENG,Europe,GK,Southampton,31,2600000,17,17,1530,17,0,0,1,0,0,0,0,0,0,1,0,0,0,9,27,44,62
+Alex Oxlade-Chamberlain,ENG,Europe,MF,Liverpool,27,6240000,17,9,785,8.7,2,1,0,0,34,61,0.23,0.11,10,3,6,11,0,33,0,0,0
+Alex Telles,BRA,South America,DF,Manchester Utd,28,4840000,21,18,1660,18.4,0,4,1,0,36,66,0,0.22,23,9,26,27,0,99,0,0,0
+Alexandre Lacazette,FRA,Europe,FW,Arsenal,30,9470000,30,20,1782,19.8,4,7,0,0,19,52,0.2,0.35,32,29,5,10,0,52,0,0,0
+Alexis Mac Allister,ARG,South America,MF,Brighton,22,1600000,33,22,2123,23.6,5,2,4,0,30,137,0.21,0.08,30,39,13,40,0,149,0,0,0
+Alisson,BRA,South America,GK,Liverpool,28,7800000,36,36,3240,36,0,1,0,0,0,1,0,0.03,0,2,0,1,1,80,24,76,75.8
+Allan,BRA,South America,MF,Everton,30,3640000,28,25,2183,24.3,0,2,7,1,26,130,0,0.08,30,22,23,44,0,191,0,0,0
+Allan Saint-Maximin,FRA,Europe,FW,Newcastle Utd,24,2000000,35,31,2804,31.2,5,5,6,0,180,87,0.16,0.16,22,48,11,8,0,110,0,0,0
+Alphonse Areola,FRA,Europe,GK,West Ham,28,6240000,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7
+Álvaro Fernández,ESP,Europe,GK,Brentford,23,1300000,12,12,1080,12,0,0,0,0,0,1,0,0,0,3,0,0,1,18,24,47,66.7
+André Gomes,POR,Europe,MF,Everton,28,5840000,14,7,619,6.9,0,1,3,0,6,25,0,0.15,24,8,1,4,0,53,0,0,0
+Andreas Christensen,DEN,Europe,DF,Chelsea,25,4160000,19,17,1496,16.6,0,0,2,0,14,81,0,0,11,7,29,8,0,110,0,0,0
+Andrew Omobamidele,IRL,Europe,DF,Norwich City,19,940000,5,4,382,4.2,1,0,1,0,6,14,0.24,0,3,5,5,6,0,29,0,0,0
+Andrew Robertson,SCO,Europe,DF,Liverpool,27,2600000,29,29,2537,28.2,3,10,5,1,96,186,0.11,0.35,19,9,23,21,0,180,0,0,0
+Andriy Yarmolenko,UKR,Europe,FW,West Ham,31,5980000,19,1,316,3.5,1,0,1,0,12,12,0.28,0,1,4,0,2,0,5,0,0,0
+Andriy Yarmolenko,UKR,Europe,FW,West Ham,31,5980000,19,1,316,3.5,1,0,1,0,12,12,0.28,0,1,4,0,2,0,5,0,0,0
+Andros Townsend,ENG,Europe,MF,Everton,30,2340000,21,17,1455,16.2,3,2,3,0,41,50,0.19,0.12,10,39,14,17,0,80,0,0,0
+Angelo Ogbonna,ITA,Europe,DF,West Ham,33,3640000,11,11,921,10.2,1,0,1,0,2,14,0.1,0,5,3,11,4,0,45,0,0,0
+Angus Gunn,SCO,Europe,GK,Norwich City,25,1300000,9,9,810,9,0,0,0,0,0,0,0,0,0,0,0,0,0,9,22,34,64.9
+Anthony Elanga,SWE,Europe,FW,Manchester Utd,19,470000,21,14,1214,13.5,2,2,0,0,32,18,0.15,0.15,8,22,9,20,0,50,0,0,0
+Anthony Gordon,ENG,Europe,MF,Everton,20,520000,35,25,2285,25.4,4,2,4,0,74,51,0.16,0.08,25,64,22,32,0,116,0,0,0
+Anthony Martial,FRA,Europe,FW,Manchester Utd,25,13000000,8,2,212,2.4,1,0,0,0,10,14,0.42,0,0,4,0,0,0,5,0,0,0
+Antonio Rüdiger,GER,Europe,DF,Chelsea,28,5200000,34,34,3035,33.7,3,0,9,0,54,188,0.09,0,35,12,28,28,0,183,0,0,0
+Anwar El Ghazi,NED,Europe,FW,Aston Villa,26,1610000,2,0,13,0.1,0,0,0,0,2,0,0,0,0,0,0,1,0,2,0,0,0
+Armando Broja,ALB,Europe,FW,Southampton,19,390000,32,21,1975,21.9,6,0,2,0,56,29,0.27,0,29,26,3,5,0,81,0,0,0
+Arthur Masuaku,COD,Africa,DF,West Ham,27,2080000,13,6,650,7.2,1,1,1,0,16,33,0.14,0.14,8,4,9,23,0,50,0,0,0
+Ashley Barnes,ENG,Europe,FW,Burnley,31,2080000,23,8,808,9,1,0,4,0,5,17,0.11,0,21,12,2,2,0,34,0,0,0
+Ashley Fletcher,ENG,Europe,FW,Watford,25,780000,3,0,30,0.3,0,0,0,0,1,0,0,0,1,0,0,1,0,2,0,0,0
+Ashley Westwood,ENG,Europe,MF,Burnley,31,1872000,27,26,2287,25.4,0,3,7,0,12,130,0,0.12,29,22,30,12,0,174,0,0,0
+Ashley Young,ENG,Europe,DF,Aston Villa,36,2570000,24,10,1250,13.9,0,2,2,0,27,45,0,0.14,16,32,13,6,1,66,0,0,0
+Asmir Begović,BIH,Europe,GK,Everton,34,2080000,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,11,61.1
+Axel Tuanzebe,ENG,Europe,DF,Aston Villa,23,2600000,9,6,508,5.6,0,0,1,0,1,6,0,0,3,3,5,3,0,29,0,0,0
+Aymeric Laporte,ESP,Europe,DF,Manchester City,27,6240000,33,33,2828,31.4,4,0,5,1,51,271,0.13,0,14,10,20,15,0,182,0,0,0
+Ayoze Pérez,ESP,Europe,MF,Leicester City,28,2340000,14,6,445,4.9,2,3,0,1,16,18,0.4,0.61,6,7,2,2,0,21,0,0,0
+Bali Mumba,ENG,Europe,DF,Norwich City,19,120000,1,0,45,0.5,0,0,0,0,1,1,0,0,0,0,0,1,0,2,0,0,0
+Ben Chilwell,ENG,Europe,DF,Chelsea,24,9880000,7,6,542,6,3,1,0,0,14,18,0.5,0.17,10,15,4,3,0,32,0,0,0
+Ben Davies,WAL,Europe,DF,Tottenham,28,3120000,29,28,2538,28.2,1,1,6,0,62,137,0.04,0.04,31,18,30,21,0,106,0,0,0
+Ben Foster,ENG,Europe,GK,Watford,38,1560000,26,26,2340,26,0,1,0,0,0,0,0,0.04,1,4,0,0,0,54,49,67,60.3
+Ben Gibson,ENG,Europe,DF,Norwich City,28,2080000,28,28,2494,27.7,0,0,5,1,11,68,0,0,12,9,27,16,0,108,0,0,0
+Ben Godfrey,ENG,Europe,DF,Everton,23,4000000,23,23,2029,22.5,0,0,6,0,23,67,0,0,17,12,15,32,0,94,0,0,0
+Ben Johnson,ENG,Europe,DF,West Ham,21,1000000,20,16,1397,15.5,1,0,1,0,23,64,0.06,0,10,4,22,16,0,78,0,0,0
+Ben Mee,ENG,Europe,DF,Burnley,31,2860000,21,21,1839,20.4,3,0,3,0,3,38,0.15,0,9,7,24,12,1,132,0,0,0
+Ben White,ENG,Europe,DF,Arsenal,23,6240000,32,32,2880,32,0,0,3,0,38,124,0,0,19,27,42,23,1,158,0,0,0
+Benjamin Mendy,FRA,Europe,DF,Manchester City,27,4680000,1,1,78,0.9,0,0,0,0,4,9,0,0,2,0,0,2,0,5,0,0,0
+Bernardo Silva,POR,Europe,MF,Manchester City,26,7800000,35,33,2857,31.7,8,4,6,0,146,170,0.25,0.13,30,33,20,29,0,156,0,0,0
+Bernd Leno,GER,Europe,GK,Arsenal,29,5200000,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,1,0,2,9,10,52.6
+Bertrand Traoré,BFA,Africa,MF,Aston Villa,25,4050000,9,1,220,2.4,0,0,0,0,12,12,0,0,0,4,0,3,0,11,0,0,0
+Billy Gilmour,SCO,Europe,MF,Norwich City,20,2250000,24,21,1855,20.6,0,1,2,0,30,112,0,0.05,28,21,17,21,0,124,0,0,0
+Boubakary Soumaré,FRA,Europe,MF,Leicester City,22,4160000,19,12,1102,12.2,0,1,0,0,10,45,0,0.08,16,17,14,13,0,62,0,0,0
+Brandon Williams,ENG,Europe,DF,Norwich City,20,3380000,26,23,2120,23.6,0,1,8,0,57,90,0,0.04,23,44,44,37,0,158,0,0,0
+Bruno Fernandes,POR,Europe,MF,Manchester Utd,26,9360000,36,35,3111,34.6,10,6,10,0,78,237,0.29,0.17,33,47,17,28,0,180,0,0,0
+Bruno Guimarães,BRA,South America,MF,Newcastle Utd,23,6240000,17,11,1034,11.5,5,1,4,0,18,54,0.44,0.09,13,36,9,23,0,81,0,0,0
+Bryan Gil,ESP,Europe,FW,Tottenham,20,4160000,9,0,94,1,0,0,0,0,6,7,0,0,1,4,0,0,0,12,0,0,0
+Bryan Mbeumo,CMR,Africa,FW,Brentford,21,1040000,35,34,2905,32.3,4,7,4,0,81,56,0.12,0.22,20,38,11,16,0,130,0,0,0
+Bukayo Saka,ENG,Europe,FW,Arsenal,19,1560000,38,36,2978,33.1,11,7,6,0,140,101,0.33,0.21,39,59,22,21,0,141,0,0,0
+Çağlar Söyüncü,TUR,Asia,DF,Leicester City,25,2340000,28,28,2497,27.7,1,0,5,0,19,71,0.04,0,24,14,32,30,0,164,0,0,0
+Callum Hudson-Odoi,ENG,Europe,MF,Chelsea,20,6240000,15,11,962,10.7,1,2,1,0,67,41,0.09,0.19,10,17,2,10,0,39,0,0,0
+Callum Wilson,ENG,Europe,FW,Newcastle Utd,29,2400000,18,16,1386,15.4,8,0,4,0,14,9,0.52,0,27,22,3,8,0,28,0,0,0
+Calum Chambers,ENG,Europe,DF,Arsenal,26,2600000,2,2,170,1.9,0,0,0,0,0,7,0,0,2,1,0,3,0,14,0,0,0
+Caoimhín Kelleher,IRL,Europe,GK,Liverpool,22,310000,2,2,180,2,0,0,0,0,0,0,0,0,0,1,0,1,0,4,2,6,75
+Carney Chukwuemeka,ENG,Europe,MF,Aston Villa,17,80000,12,2,301,3.3,0,1,0,0,9,7,0,0.3,3,9,1,1,0,16,0,0,0
+Cédric Soares,POR,Europe,DF,Arsenal,29,3900000,21,16,1486,16.5,1,1,3,0,17,84,0.06,0.06,15,6,16,26,0,79,0,0,0
+Cenk Tosun,TUR,Asia,MF,Everton,30,3120000,1,0,7,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+César Azpilicueta,ESP,Europe,DF,Chelsea,31,7800000,27,24,2070,23,1,2,3,0,49,138,0.04,0.09,25,5,23,28,0,110,0,0,0
+Charlie Cresswell,ENG,Europe,DF,Leeds United,18,260000,5,1,141,1.6,0,0,1,0,1,4,0,0,3,0,2,2,0,6,0,0,0
+Charlie Goode,ENG,Europe,DF,Brentford,25,390000,6,4,450,5,0,0,3,0,5,18,0,0,5,7,2,5,0,30,0,0,0
+Charlie Taylor,ENG,Europe,DF,Burnley,27,1300000,31,30,2731,30.3,0,3,3,0,58,91,0,0.1,17,43,58,26,0,183,0,0,0
+Che Adams,SCO,Europe,FW,Southampton,25,1560000,30,23,2039,22.7,7,3,0,0,19,33,0.31,0.13,29,40,8,6,0,70,0,0,0
+Cheikhou Kouyaté,SEN,Africa,MF,Crystal Palace,31,3380000,27,23,1974,21.9,0,1,3,0,7,54,0,0.05,30,21,38,38,0,136,0,0,0
+Chiquinho,POR,Europe,DF,Wolves,21,950000,8,1,208,2.3,0,3,0,0,10,7,0,1.3,9,8,2,6,0,17,0,0,0
+Chris Wood,NZL,Oceania,FW,Burnley,29,2600000,17,17,1367,15.2,3,0,1,0,5,23,0.2,0,14,7,0,5,0,23,0,0,0
+Christian Benteke,BEL,Europe,FW,Crystal Palace,30,6240000,25,11,1145,12.7,4,1,3,0,15,24,0.31,0.08,16,16,2,2,0,25,0,0,0
+Christian Eriksen,DEN,Europe,MF,Brentford,29,1220000,11,10,939,10.4,1,4,1,0,21,82,0.1,0.38,5,3,9,6,0,69,0,0,0
+Christian Kabasele,BEL,Europe,DF,Watford,30,1560000,16,12,1193,13.3,0,0,0,0,5,21,0,0,5,3,14,5,0,58,0,0,0
+Christian Nørgaard,DEN,Europe,MF,Brentford,27,1040000,35,35,3054,33.9,3,4,8,0,17,169,0.09,0.12,56,33,64,60,0,270,0,0,0
+Christian Pulisic,USA,North America,MF,Chelsea,22,7800000,22,13,1290,14.3,6,2,2,0,44,38,0.42,0.14,15,31,5,7,0,53,0,0,0
+Christoph Zimmermann,GER,Europe,DF,Norwich City,28,1010000,3,2,157,1.7,0,0,0,0,1,4,0,0,1,2,1,3,0,11,0,0,0
+Christos Tzolis,GRE,Europe,FW,Norwich City,19,1560000,14,3,336,3.7,0,0,0,0,8,13,0,0,2,4,1,3,0,13,0,0,0
+Ciaran Clark,IRL,Europe,DF,Newcastle Utd,31,1820000,13,12,1014,11.3,0,1,2,1,2,17,0,0.09,6,5,13,10,0,49,0,0,0
+Cole Palmer,ENG,Europe,FW,Manchester City,19,700000,4,1,123,1.4,0,0,0,0,3,3,0,0,1,1,1,1,0,3,0,0,0
+Connor Roberts,WAL,Europe,DF,Burnley,25,1820000,21,19,1692,18.8,1,1,2,0,23,61,0.05,0.05,7,29,22,13,0,82,0,0,0
+Conor Coady,ENG,Europe,DF,Wolves,28,860000,38,38,3361,37.3,4,0,4,0,6,35,0.11,0,20,1,28,14,0,162,0,0,0
+Conor Gallagher,ENG,Europe,MF,Crystal Palace,21,780000,34,33,2845,31.6,8,3,10,0,42,94,0.25,0.09,65,65,29,38,0,187,0,0,0
+Craig Cathcart,NIR,Europe,DF,Watford,32,1220000,31,27,2396,26.6,0,1,3,0,6,52,0,0.04,13,4,28,15,0,127,0,0,0
+Craig Dawson,ENG,Europe,DF,West Ham,31,2210000,34,30,2754,30.6,2,2,5,1,4,54,0.07,0.07,39,12,29,17,0,113,0,0,0
+Cristian Romero,ARG,South America,DF,Tottenham,23,8580000,22,21,1844,20.5,1,0,8,0,23,65,0.05,0,28,15,33,39,0,148,0,0,0
+Cristiano Ronaldo,POR,Europe,FW,Manchester Utd,36,26800000,30,27,2456,27.3,18,3,8,0,67,64,0.66,0.11,16,18,2,6,0,52,0,0,0
+Crysencio Summerville,NED,Europe,MF,Leeds United,19,390000,6,0,130,1.4,0,0,0,0,5,7,0,0,1,1,2,3,0,11,0,0,0
+Cucho,COL,South America,FW,Watford,22,870000,25,11,1147,12.7,5,2,3,0,22,39,0.39,0.16,13,12,5,5,1,65,0,0,0
+Curtis Jones,ENG,Europe,MF,Liverpool,20,390000,15,10,851,9.5,1,1,0,0,25,58,0.11,0.11,11,19,6,9,0,54,0,0,0
+Dale Stephens,ENG,Europe,MF,Burnley,32,1950000,3,1,124,1.4,0,0,1,0,0,5,0,0,5,0,1,1,0,7,0,0,0
+Dan Burn,ENG,Europe,DF,Newcastle Utd,29,1000000,16,16,1440,16,0,1,4,0,6,31,0,0.06,11,6,20,11,0,73,0,0,0
+Dan Gosling,ENG,Europe,MF,Watford,31,1820000,4,2,166,1.8,1,0,0,0,2,4,0.54,0,2,5,0,1,0,14,0,0,0
+Daniel Amartey,GHA,Africa,DF,Leicester City,26,1090000,28,23,2123,23.6,0,0,4,0,14,62,0,0,14,8,21,13,0,145,0,0,0
+Daniel Bachmann,AUT,Europe,GK,Watford,27,170000,12,12,1080,12,0,0,0,0,0,0,0,0,1,1,1,0,0,10,28,46,65.3
+Daniel James,WAL,Europe,FW,Leeds United,23,2600000,2,2,126,1.4,0,0,0,0,5,3,0,0,1,0,0,1,0,4,0,0,0
+Daniel Podence,POR,Europe,FW,Wolves,25,3120000,26,15,1484,16.5,2,3,2,0,63,75,0.12,0.18,8,25,10,11,0,79,0,0,0
+Danny Ings,ENG,Europe,FW,Aston Villa,29,6240000,30,22,1898,21.1,7,6,4,0,24,39,0.33,0.28,16,12,6,16,0,47,0,0,0
+Danny Rose,ENG,Europe,DF,Watford,31,3120000,8,7,689,7.7,0,0,4,0,12,33,0,0,10,14,14,10,0,41,0,0,0
+Danny Ward,WAL,Europe,GK,Leicester City,28,1040000,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,80
+Danny Welbeck,ENG,Europe,FW,Brighton,30,2860000,25,15,1478,16.4,6,2,0,0,22,23,0.37,0.12,17,13,5,7,0,29,0,0,0
+David de Gea,ESP,Europe,GK,Manchester Utd,30,19500000,38,38,3420,38,0,0,0,0,0,0,0,0,0,1,0,0,0,30,57,124,70
+David Raya,ESP,Europe,GK,Brentford,25,1300000,24,24,2160,24,0,0,1,0,0,3,0,0,1,2,0,0,0,29,27,76,77.7
+Davinson Sánchez,COL,South America,DF,Tottenham,25,3380000,23,17,1631,18.1,2,0,4,0,21,65,0.11,0,16,11,30,22,0,103,0,0,0
+Declan Rice,ENG,Europe,MF,West Ham,22,160000,36,35,3179,35.3,1,4,8,0,104,256,0.03,0.11,28,11,63,42,0,286,0,0,0
+Dejan Kulusevski,SWE,Europe,MF,Tottenham,21,5720000,18,14,1261,14,5,8,3,0,51,35,0.36,0.57,20,15,13,13,0,75,0,0,0
+Dele Alli,ENG,Europe,MF,Tottenham,25,5200000,11,1,338,3.8,0,0,3,0,7,13,0,0,12,11,6,8,0,40,0,0,0
+Demarai Gray,JAM,North America,MF,Everton,25,2080000,34,28,2338,26,5,4,3,0,93,59,0.19,0.15,12,32,15,19,0,100,0,0,0
+Diego Llorente,ESP,Europe,DF,Leeds United,27,1144000,28,28,2340,26,3,0,7,0,20,97,0.12,0,23,21,40,31,0,171,0,0,0
+Dimitris Giannoulis,GRE,Europe,DF,Norwich City,25,390000,18,14,1169,13,0,1,2,0,33,40,0,0.08,16,22,19,21,0,105,0,0,0
+Diogo Dalot,POR,Europe,DF,Manchester Utd,22,1300000,24,19,1801,20,0,0,4,0,53,105,0,0,18,4,29,41,0,151,0,0,0
+Diogo Jota,POR,Europe,FW,Liverpool,24,4680000,35,27,2364,26.3,15,4,3,0,74,87,0.57,0.15,41,40,6,18,0,100,0,0,0
+Divock Origi,BEL,Europe,FW,Liverpool,26,3120000,7,0,133,1.5,3,0,0,0,3,2,2.03,0,2,1,1,0,0,7,0,0,0
+Dominic Calvert-Lewin,ENG,Europe,FW,Everton,24,1040000,17,15,1283,14.3,5,2,2,0,9,17,0.35,0.14,17,16,3,8,0,34,0,0,0
+Dominic Thompson,ENG,Europe,DF,Brentford,21,180000,2,2,146,1.6,0,0,0,0,0,0,0,0,1,0,2,0,0,5,0,0,0
+Donny van de Beek,NED,Europe,MF,Manchester Utd,24,6240000,8,0,75,0.8,1,0,0,0,0,4,1.2,0,2,2,2,4,0,7,0,0,0
+Douglas Luiz,BRA,South America,MF,Aston Villa,23,1700000,34,31,2715,30.2,2,3,7,0,28,105,0.07,0.1,37,41,34,39,0,183,0,0,0
+Dwight Gayle,ENG,Europe,FW,Newcastle Utd,30,3120000,8,0,38,0.4,0,0,1,0,0,0,0,0,2,2,1,0,0,2,0,0,0
+Dwight Gayle,ENG,Europe,FW,Newcastle Utd,30,2080000,8,0,38,0.4,0,0,1,0,0,0,0,0,2,2,1,0,0,2,0,0,0
+Dwight McNeil,ENG,Europe,MF,Burnley,21,260000,38,35,3107,34.5,0,1,1,0,93,104,0,0.03,16,36,35,49,0,223,0,0,0
+Eberechi Eze,ENG,Europe,MF,Crystal Palace,23,1560000,13,6,605,6.7,1,1,1,0,20,33,0.15,0.15,5,12,5,6,0,38,0,0,0
+Eddie Nketiah,ENG,Europe,FW,Arsenal,22,2340000,21,8,835,9.3,5,1,3,0,27,21,0.54,0.11,17,14,4,4,0,27,0,0,0
+Ederson,BRA,South America,GK,Manchester City,27,3380000,37,37,3330,37,0,0,3,0,0,3,0,0,1,4,0,1,0,43,26,57,69.9
+Edinson Cavani,URU,South America,FW,Manchester Utd,34,13000000,15,7,766,8.5,2,1,0,0,2,9,0.23,0.12,7,5,2,1,0,22,0,0,0
+Edo Kayembe,COD,Africa,MF,Watford,23,770000,13,9,799,8.9,0,0,0,0,9,47,0,0,4,5,9,13,0,77,0,0,0
+Edouard Mendy,SEN,Africa,GK,Chelsea,29,2700000,34,34,3060,34,0,0,3,0,0,0,0,0,1,3,0,0,0,42,31,72,75.5
+Emerson,BRA,South America,DF,Tottenham,22,2170000,31,26,2286,25.4,1,1,5,0,68,68,0.04,0.04,28,45,22,47,0,152,0,0,0
+Emi Buendía,ARG,South America,MF,Aston Villa,24,3900000,35,22,1899,21.1,4,6,1,0,40,117,0.19,0.28,17,44,9,18,0,110,0,0,0
+Emil Krafth,SWE,Europe,DF,Newcastle Utd,26,3000000,20,18,1634,18.2,0,1,5,0,29,50,0,0.06,22,11,25,16,0,94,0,0,0
+Emile Smith Rowe,ENG,Europe,MF,Arsenal,21,1040000,33,21,1921,21.3,10,2,1,0,65,85,0.47,0.09,5,21,15,7,0,105,0,0,0
+Emiliano Martínez,ARG,South America,GK,Aston Villa,28,2470000,36,36,3240,36,0,0,4,0,0,0,0,0,0,6,0,1,0,32,48,93,68.6
+Emmanuel Dennis,NGA,Africa,FW,Watford,23,1300000,33,30,2581,28.7,10,6,9,1,90,61,0.35,0.21,59,40,15,35,0,125,0,0,0
+Enock Mwepu,ZAM,Africa,MF,Brighton,23,1560000,18,12,996,11.1,2,4,2,0,22,27,0.18,0.36,18,15,12,12,0,70,0,0,0
+Eric Bailly,CIV,Africa,DF,Manchester Utd,27,4160000,4,3,217,2.4,0,0,1,0,1,5,0,0,2,0,3,4,1,10,0,0,0
+Eric Dier,ENG,Europe,DF,Tottenham,27,3760000,35,35,3071,34.1,0,0,1,0,13,103,0,0,12,9,27,9,1,131,0,0,0
+Erik Pieters,NED,Europe,DF,Burnley,32,2500000,12,8,730,8.1,0,1,1,0,7,15,0,0.12,14,5,10,15,0,53,0,0,0
+Ethan Pinnock,JAM,North America,DF,Brentford,28,780000,32,32,2694,29.9,1,1,1,0,11,77,0.03,0.03,9,14,44,35,0,141,0,0,0
+Ezri Konsa,ENG,Europe,DF,Aston Villa,23,416000,29,29,2477,27.5,2,0,6,2,8,45,0.07,0,18,36,15,15,0,105,0,0,0
+Fabian Delph,ENG,Europe,MF,Everton,31,4160000,11,8,662,7.4,0,0,2,0,2,34,0,0,8,6,14,15,0,61,0,0,0
+Fabian Schär,SUI,Europe,DF,Newcastle Utd,29,2080000,25,25,2158,24,2,2,4,0,20,59,0.08,0.08,24,11,32,11,0,131,0,0,0
+Fabinho,BRA,South America,MF,Liverpool,27,9360000,29,26,2314,25.7,5,1,7,0,18,134,0.19,0.04,40,28,39,25,0,193,0,0,0
+Fábio Silva,POR,Europe,FW,Wolves,19,4160000,22,6,572,6.4,0,0,0,0,14,14,0,0,13,7,1,2,0,18,0,0,0
+Federico Fernández,ARG,South America,DF,Newcastle Utd,32,2460000,7,5,523,5.8,0,0,0,0,0,12,0,0,1,2,4,0,0,24,0,0,0
+Fernandinho,BRA,South America,MF,Manchester City,36,7800000,19,10,964,10.7,2,1,1,0,16,81,0.19,0.09,14,10,8,10,0,85,0,0,0
+Fernando Marçal,BRA,South America,MF,Wolves,32,1820000,18,17,1449,16.1,0,0,3,0,39,50,0,0,29,9,28,22,0,94,0,0,0
+Ferrán Torres,ESP,Europe,FW,Manchester City,21,2400000,4,4,303,3.4,2,1,0,0,5,4,0.59,0.3,1,1,0,2,0,6,0,0,0
+Finley Stevens,WAL,Europe,DF,Brentford,18,280000,1,0,15,0.2,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0
+Folarin Balogun,USA,North America,FW,Arsenal,20,1560000,2,1,70,0.8,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,0,0
+Francisco Sierralta,CHI,South America,DF,Watford,24,490000,5,5,427,4.7,0,0,0,0,1,2,0,0,4,3,6,3,1,17,0,0,0
+Francisco Trincão,POR,Europe,FW,Wolves,21,6820000,28,16,1336,14.8,2,1,0,0,56,40,0.13,0.07,13,22,12,15,0,73,0,0,0
+Frank Onyeka,NGA,Africa,MF,Brentford,23,1560000,20,12,1045,11.6,0,0,4,0,18,35,0,0,33,25,14,17,0,69,0,0,0
+Fraser Forster,ENG,Europe,GK,Southampton,33,3640000,19,19,1710,19,0,0,1,0,0,0,0,0,0,3,0,0,0,7,35,68,67.3
+Fred,BRA,South America,MF,Manchester Utd,28,6240000,28,24,2028,22.5,4,4,5,0,17,138,0.18,0.18,31,30,32,27,1,197,0,0,0
+Freddie Woodman,ENG,Europe,GK,Newcastle Utd,24,780000,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,12,9,54.5
+Gabriel Dos Santos,BRA,South America,DF,Arsenal,23,2600000,35,35,3063,34,5,0,8,1,12,110,0.15,0,23,38,13,30,0,178,0,0,0
+Gabriel Jesus,BRA,South America,FW,Manchester City,24,4680000,28,21,1877,20.9,8,8,1,0,51,55,0.38,0.38,26,26,15,12,0,76,0,0,0
+Gabriel Martinelli,BRA,South America,FW,Arsenal,20,4680000,29,21,1860,20.7,6,6,3,1,79,37,0.29,0.29,24,20,20,19,0,86,0,0,0
+Giovani Lo Celso,ARG,South America,MF,Tottenham,25,3640000,9,2,238,2.6,0,0,0,0,10,8,0,0,2,6,1,4,0,11,0,0,0
+Granit Xhaka,SUI,Europe,MF,Arsenal,28,5200000,27,27,2327,25.9,1,2,10,1,39,230,0.04,0.08,29,19,21,18,0,146,0,0,0
+Grant Hanley,SCO,Europe,DF,Norwich City,29,1040000,33,33,2897,32.2,1,0,2,0,2,27,0.03,0,22,22,56,25,0,121,0,0,0
+Hakim Ziyech,MAR,Africa,MF,Chelsea,28,5200000,23,14,1319,14.7,4,3,3,0,50,88,0.27,0.2,24,29,10,10,0,87,0,0,0
+Hamza Choudhury,ENG,Europe,DF,Leicester City,23,390000,6,4,285,3.2,0,0,1,0,0,5,0,0,4,5,12,3,0,15,0,0,0
+Harry Kane,ENG,Europe,FW,Tottenham,28,10400000,37,36,3232,35.9,17,9,5,0,87,143,0.47,0.25,42,54,3,5,0,92,0,0,0
+Harry Maguire,ENG,Europe,DF,Manchester Utd,28,9880000,30,28,2515,27.9,1,0,9,1,22,115,0.04,0,21,19,32,21,1,148,0,0,0
+Harry Winks,ENG,Europe,MF,Tottenham,25,2600000,19,9,912,10.1,0,1,2,0,10,73,0,0.1,11,13,16,10,0,47,0,0,0
+Harvey Barnes,ENG,Europe,FW,Leicester City,23,520000,32,24,2101,23.3,6,10,2,0,107,59,0.26,0.43,19,20,5,16,0,93,0,0,0
+Harvey Elliott,ENG,Europe,MF,Liverpool,18,780000,6,4,346,3.8,0,0,0,0,10,36,0,0,2,6,4,0,0,31,0,0,0
+Hassane Kamara,CIV,Africa,DF,Watford,27,1380000,19,18,1623,18,1,0,5,1,32,55,0.06,0,24,16,69,34,0,153,0,0,0
+Hugo Lloris,FRA,Europe,GK,Tottenham,34,5200000,38,38,3420,38,0,0,2,0,0,0,0,0,0,2,1,1,0,28,40,98,72.3
+Hwang Hee-chan,KOR,Asia,FW,Wolves,25,1280000,30,20,1816,20.2,5,1,2,0,66,57,0.25,0.05,29,42,13,13,0,92,0,0,0
+Ibrahima Diallo,FRA,Europe,MF,Southampton,22,2860000,23,10,1023,11.4,0,2,1,0,17,57,0,0.18,8,15,9,11,0,77,0,0,0
+Ibrahima Konaté,FRA,Europe,DF,Liverpool,22,3640000,11,11,990,11,0,0,2,0,7,51,0,0,10,3,16,10,0,64,0,0,0
+İlkay Gündoğan,GER,Europe,MF,Manchester City,30,7280000,27,20,1857,20.6,8,4,1,0,60,126,0.39,0.19,13,10,15,9,0,110,0,0,0
+Illan Meslier,FRA,Europe,GK,Leeds United,21,1144000,38,38,3384,37.6,0,0,2,0,0,0,0,0,0,8,0,1,0,25,79,142,66.4
+Imran Louza,MAR,Africa,MF,Watford,22,2340000,20,17,1416,15.7,0,0,6,0,17,67,0,0,24,13,42,21,0,129,0,0,0
+Isaac Hayden,ENG,Europe,MF,Newcastle Utd,26,1140000,14,12,1002,11.1,1,0,5,0,3,15,0.09,0,14,8,14,14,0,46,0,0,0
+Ismaila Sarr,SEN,Africa,FW,Watford,23,3280000,22,21,1861,20.7,5,2,2,0,79,52,0.24,0.1,17,47,9,7,0,88,0,0,0
+Issa Diop,FRA,Europe,DF,West Ham,24,3480000,13,10,963,10.7,0,1,0,0,4,14,0,0.09,5,5,7,8,0,55,0,0,0
+Ivan Toney,ENG,Europe,FW,Brentford,25,1100000,33,32,2909,32.3,12,5,8,0,28,83,0.37,0.15,50,80,14,21,0,105,0,0,0
+Jack Butland,ENG,Europe,GK,Crystal Palace,28,2340000,9,8,765,8.5,0,0,0,0,0,0,0,0,0,2,0,0,0,4,13,16,53.6
+Jack Cork,ENG,Europe,MF,Burnley,32,1980000,20,20,1670,18.6,1,0,4,0,12,46,0.05,0,31,10,17,6,0,96,0,0,0
+Jack Grealish,ENG,Europe,FW,Manchester City,25,15600000,26,22,1914,21.3,3,3,3,0,153,100,0.14,0.14,17,55,8,17,0,63,0,0,0
+Jack Harrison,ENG,Europe,FW,Leeds United,24,780000,35,32,2639,29.3,8,1,3,0,120,89,0.27,0.03,29,23,21,37,0,170,0,0,0
+Jack Stephens,ENG,Europe,DF,Southampton,27,2490000,11,9,811,9,0,0,3,0,7,28,0,0,8,2,19,12,0,68,0,0,0
+Jacob Murphy,ENG,Europe,FW,Newcastle Utd,26,1300000,33,13,1473,16.4,1,2,4,0,51,44,0.06,0.12,16,14,23,26,0,98,0,0,0
+Jacob Ramsey,ENG,Europe,MF,Aston Villa,20,390000,34,29,2467,27.4,6,1,6,0,91,132,0.22,0.04,32,44,24,44,0,126,0,0,0
+Jadon Sancho,ENG,Europe,FW,Manchester Utd,21,18200000,29,20,1900,21.1,3,3,0,0,111,88,0.14,0.14,4,7,15,8,0,112,0,0,0
+Jaïro Riedewald,NED,Europe,MF,Crystal Palace,24,2860000,3,1,118,1.3,0,0,0,0,1,4,0,0,1,0,1,1,0,10,0,0,0
+Jakob Sørensen,DEN,Europe,MF,Norwich City,23,520000,10,6,604,6.7,0,0,0,0,4,20,0,0,7,1,10,11,0,48,0,0,0
+Jakub Moder,POL,Europe,MF,Brighton,22,520000,28,19,1701,18.9,0,3,1,0,42,89,0,0.16,19,11,10,25,0,107,0,0,0
+Jamaal Lascelles,ENG,Europe,DF,Newcastle Utd,27,2080000,26,22,2058,22.9,1,0,5,0,0,18,0.04,0,17,4,22,7,2,86,0,0,0
+Jamal Lewis,NIR,Europe,DF,Newcastle Utd,23,2000000,5,4,262,2.9,0,0,1,0,3,7,0,0,2,2,3,6,0,13,0,0,0
+James Justin,ENG,Europe,DF,Leicester City,23,430000,13,11,998,11.1,0,0,0,0,23,44,0,0,7,12,17,13,0,62,0,0,0
+James Maddison,ENG,Europe,MF,Leicester City,24,5720000,35,28,2459,27.3,12,8,3,0,53,136,0.44,0.29,22,64,11,20,0,107,0,0,0
+James McArthur,SCO,Europe,MF,Crystal Palace,33,2860000,21,15,1439,16,0,3,4,0,29,84,0,0.19,24,20,30,23,0,135,0,0,0
+James Milner,ENG,Europe,MF,Liverpool,35,7280000,24,9,853,9.5,0,1,2,0,9,73,0,0.11,17,14,17,16,0,72,0,0,0
+James Tarkowski,ENG,Europe,DF,Burnley,28,2600000,35,35,3106,34.5,1,2,11,0,3,97,0.03,0.06,30,19,48,45,1,171,0,0,0
+James Tomkins,ENG,Europe,DF,Crystal Palace,32,2600000,8,6,547,6.1,1,0,2,0,1,8,0.16,0,7,2,4,3,0,33,0,0,0
+James Ward-Prowse,ENG,Europe,MF,Southampton,26,2340000,36,36,3215,35.7,10,5,3,1,21,189,0.28,0.14,22,15,40,24,0,259,0,0,0
+Jamie Shackleton,ENG,Europe,DF,Leeds United,21,78000,14,7,709,7.9,0,0,4,0,20,36,0,0,13,6,8,16,0,50,0,0,0
+Jamie Vardy,ENG,Europe,FW,Leicester City,34,7280000,25,20,1806,20.1,15,2,2,0,37,28,0.75,0.1,13,12,1,5,1,25,0,0,0
+Jan Bednarek,POL,Europe,DF,Southampton,25,1040000,31,30,2629,29.2,4,0,10,0,0,61,0.14,0,30,15,72,15,1,177,0,0,0
+Jannik Vestergaard,DEN,Europe,DF,Leicester City,28,3900000,10,6,567,6.3,0,0,2,0,2,19,0,0,4,1,7,10,0,32,0,0,0
+Japhet Tanganga,ENG,Europe,DF,Tottenham,22,1200000,11,10,735,8.2,0,0,4,1,13,20,0,0,19,8,9,8,0,24,0,0,0
+Jarrad Branthwaite,ENG,Europe,DF,Everton,19,780000,6,4,388,4.3,1,0,0,1,1,12,0.23,0,3,4,1,1,0,24,0,0,0
+Jarrod Bowen,ENG,Europe,FW,West Ham,24,5000000,36,34,2983,33.1,12,10,6,0,74,66,0.36,0.3,25,43,21,20,0,151,0,0,0
+Jason Steele,ENG,Europe,GK,Brighton,30,830000,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,60
+Javier Manquillo,ESP,Europe,DF,Newcastle Utd,27,1820000,19,15,1257,14,1,2,5,0,6,22,0.07,0.14,9,17,10,29,0,57,0,0,0
+Jay Rodriguez,ENG,Europe,FW,Burnley,32,1820000,29,13,1382,15.4,2,2,3,0,18,19,0.13,0.13,31,16,4,12,0,37,0,0,0
+Jean-Philippe Gbamin,CIV,Africa,MF,Everton,25,3900000,3,1,67,0.7,0,0,0,0,1,0,0,0,0,1,1,1,0,4,0,0,0
+Jean-Philippe Mateta,FRA,Europe,FW,Crystal Palace,24,2780000,22,13,1145,12.7,5,1,2,0,16,6,0.39,0.08,16,7,4,4,0,30,0,0,0
+Jed Steer,ENG,Europe,GK,Aston Villa,28,420000,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,25
+Jeff Hendrick,IRL,Europe,MF,Newcastle Utd,29,1820000,3,0,72,0.8,1,0,0,0,1,0,1.25,0,1,0,0,1,0,2,0,0,0
+Jeffrey Schlupp,GHA,Africa,MF,Crystal Palace,28,2910000,32,20,1851,20.6,4,1,1,0,31,70,0.19,0.05,26,22,18,25,0,115,0,0,0
+Jeremy Ngakia,ENG,Europe,DF,Watford,20,130000,16,9,903,10,0,0,0,0,18,39,0,0,10,6,12,18,0,56,0,0,0
+Jesse Lingard,ENG,Europe,FW,Manchester Utd,28,3900000,16,2,367,4.1,2,0,1,0,9,13,0.49,0,5,4,0,7,0,19,0,0,0
+Joachim Andersen,DEN,Europe,DF,Crystal Palace,25,3640000,34,32,2916,32.4,0,3,4,0,14,100,0,0.09,19,8,37,23,1,152,0,0,0
+João Cancelo,POR,Europe,DF,Manchester City,27,4160000,36,36,3227,35.9,1,7,7,0,125,357,0.03,0.2,34,26,59,54,0,217,0,0,0
+João Moutinho,POR,Europe,MF,Wolves,34,5200000,35,34,2970,33,2,1,4,0,42,196,0.06,0.03,36,15,34,39,0,254,0,0,0
+João Pedro,BRA,South America,FW,Watford,19,650000,28,15,1644,18.3,3,1,1,0,54,77,0.16,0.05,13,30,15,14,0,78,0,0,0
+Joe Gelhardt,ENG,Europe,FW,Leeds United,19,860000,20,5,746,8.3,2,2,4,0,17,15,0.24,0.24,17,24,0,3,0,30,0,0,0
+Joe Gomez,ENG,Europe,DF,Liverpool,24,3900000,8,4,331,3.7,0,1,2,0,11,36,0,0.27,5,2,5,6,0,19,0,0,0
+Joe Rodon,WAL,Europe,DF,Tottenham,23,500000,3,0,89,1,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0
+Joe Willock,ENG,Europe,MF,Newcastle Utd,21,1040000,29,24,2038,22.6,2,0,0,0,48,58,0.09,0,34,26,21,37,0,121,0,0,0
+Joël Matip,CMR,Africa,DF,Liverpool,29,5200000,31,31,2790,31,3,3,2,0,55,186,0.1,0.1,13,11,44,34,0,185,0,0,0
+Joël Veltman,NED,Europe,DF,Brighton,29,2000000,34,33,2874,31.9,1,1,6,0,25,124,0.03,0.03,39,38,45,48,0,182,0,0,0
+Joel Ward,ENG,Europe,DF,Crystal Palace,31,1820000,28,27,2487,27.6,0,0,8,0,27,119,0,0,22,21,32,26,0,140,0,0,0
+Joelinton,BRA,South America,MF,Newcastle Utd,24,4160000,35,30,2558,28.4,4,1,8,0,45,92,0.14,0.04,64,33,34,38,0,181,0,0,0
+Jóhann Berg Guðmundsson,ISL,Europe,MF,Burnley,30,1560000,18,13,1102,12.2,0,1,2,0,27,16,0,0.08,16,14,12,6,0,71,0,0,0
+John McGinn,SCO,Europe,MF,Aston Villa,26,1300000,35,35,3090,34.3,3,4,8,0,52,196,0.09,0.12,57,81,35,64,0,200,0,0,0
+John Ruddy,ENG,Europe,GK,Wolves,34,300000,2,1,135,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,57.1
+John Stones,ENG,Europe,DF,Manchester City,27,13000000,14,12,1119,12.4,1,0,0,0,28,63,0.08,0,3,6,11,3,0,52,0,0,0
+Jonas Lössl,DEN,Europe,GK,Brentford,32,90000,2,2,180,2,0,0,0,0,0,1,0,0,0,0,0,0,0,3,5,2,28.6
+Jonjo Shelvey,ENG,Europe,MF,Newcastle Utd,29,3640000,24,22,1983,22,2,1,7,1,11,84,0.09,0.05,18,8,22,17,0,160,0,0,0
+Jonjoe Kenny,ENG,Europe,DF,Everton,24,780000,15,11,1018,11.3,0,1,3,1,9,36,0,0.09,9,6,20,7,0,58,0,0,0
+Jonny Castro,ESP,Europe,DF,Wolves,27,1907000,13,10,1024,11.4,2,0,1,0,25,35,0.18,0,10,16,13,15,0,49,0,0,0
+Jonny Evans,NIR,Europe,DF,Leicester City,33,4160000,18,16,1348,15,1,1,3,0,1,49,0.07,0.07,15,11,20,14,0,105,0,0,0
+Jordan Ayew,GHA,Africa,FW,Crystal Palace,29,1690000,31,23,2019,22.4,3,3,2,0,98,51,0.13,0.13,38,66,15,30,0,132,0,0,0
+Jordan Henderson,ENG,Europe,MF,Liverpool,31,7280000,35,29,2597,28.9,2,5,3,0,54,245,0.07,0.17,23,7,23,20,0,228,0,0,0
+Jordan Pickford,ENG,Europe,GK,Everton,27,5200000,35,35,3150,35,0,0,2,0,0,0,0,0,0,6,1,1,0,18,58,116,66.5
+Jorginho,ITA,Europe,MF,Chelsea,29,5720000,29,26,2273,25.3,6,2,5,0,18,178,0.24,0.08,30,38,36,33,0,208,0,0,0
+José Sá,POR,Europe,GK,Wolves,28,2080000,37,37,3285,36.5,0,1,3,0,0,2,0,0.03,3,12,2,1,1,57,40,121,80.6
+Josh Brownhill,ENG,Europe,MF,Burnley,25,2080000,35,32,2955,32.8,2,3,10,0,18,106,0.06,0.09,39,20,68,37,0,198,0,0,0
+Josh Dasilva,ENG,Europe,MF,Brentford,22,940000,9,2,257,2.9,0,0,0,1,10,11,0,0,4,3,1,1,0,23,0,0,0
+Josh Sargent,USA,North America,FW,Norwich City,21,1560000,26,18,1572,17.5,2,1,1,0,21,12,0.11,0.06,9,23,11,14,0,70,0,0,0
+Joshua King,NOR,Europe,FW,Watford,29,2600000,32,27,2248,25,5,3,5,0,41,39,0.2,0.12,43,21,8,15,0,83,0,0,0
+Juan Mata,ESP,Europe,MF,Manchester Utd,33,8320000,7,2,235,2.6,0,0,0,0,8,16,0,0,2,4,1,4,0,22,0,0,0
+Junior Firpo,ESP,Europe,DF,Leeds United,24,2860000,24,19,1711,19,0,2,11,0,36,111,0,0.11,39,15,24,29,1,89,0,0,0
+Juraj Kucka,SVK,Europe,MF,Watford,34,1890000,26,22,1920,21.3,1,1,5,1,21,60,0.05,0.05,46,49,27,39,1,158,0,0,0
+Jürgen Locadia,NED,Europe,MF,Brighton,27,2340000,1,0,23,0.3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Kai Havertz,GER,Europe,FW,Chelsea,22,7800000,29,22,1809,20.1,8,3,3,0,64,62,0.4,0.15,40,25,4,8,0,62,0,0,0
+Kalvin Phillips,ENG,Europe,MF,Leeds United,25,234000,20,18,1596,17.7,0,1,4,0,6,93,0,0.06,33,19,24,25,0,180,0,0,0
+Karl Darlow,ENG,Europe,GK,Newcastle Utd,30,1300000,8,8,720,8,0,0,1,0,0,0,0,0,1,2,0,0,0,5,15,23,64.9
+Kasper Schmeichel,DEN,Europe,GK,Leicester City,34,6760000,37,37,3330,37,0,0,2,0,1,2,0,0,0,2,1,0,0,45,58,128,72.7
+Keinan Davis,ENG,Europe,FW,Aston Villa,23,2340000,1,0,12,0.1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Kelechi Iheanacho,NGA,Africa,FW,Leicester City,24,3120000,26,13,1264,14,4,5,1,0,28,37,0.28,0.36,17,11,4,7,0,42,0,0,0
+Ken Sema,SWE,Europe,MF,Watford,27,780000,18,7,852,9.5,0,0,1,0,19,8,0,0,15,7,5,6,0,53,0,0,0
+Kenedy,BRA,South America,DF,Chelsea,25,1300000,1,1,58,0.6,0,1,0,0,2,5,0,1.55,0,0,0,2,0,8,0,0,0
+Kenny McLean,SCO,Europe,MF,Norwich City,29,1300000,31,29,2706,30.1,1,0,3,0,32,99,0.03,0,16,38,34,22,0,149,0,0,0
+Kepa Arrizabalaga,ESP,Europe,GK,Chelsea,26,7800000,4,4,360,4,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2,11,84.6
+Kevin De Bruyne,BEL,Europe,MF,Manchester City,30,20800000,30,25,2201,24.5,15,8,2,0,84,204,0.61,0.33,21,27,6,16,0,114,0,0,0
+Kevin Long,IRL,Europe,DF,Burnley,30,1200000,6,4,410,4.6,0,0,1,0,1,4,0,0,4,3,1,2,0,11,0,0,0
+Ki-Jana Hoever,NED,Europe,DF,Wolves,19,2100000,8,4,308,3.4,0,0,1,0,9,5,0,0,5,4,6,6,0,13,0,0,0
+Kieran Dowell,ENG,Europe,FW,Norwich City,23,390000,19,11,912,10.1,1,1,0,0,14,31,0.1,0.1,19,4,7,7,0,37,0,0,0
+Kieran Tierney,SCO,Europe,DF,Arsenal,24,5720000,22,22,1915,21.3,1,3,0,0,62,105,0.05,0.14,5,16,15,14,0,85,0,0,0
+Kieran Trippier,ENG,Europe,DF,Newcastle Utd,30,7500000,6,5,429,4.8,2,0,0,0,2,17,0.42,0,3,3,10,10,0,31,0,0,0
+Kiernan Dewsbury-Hall,ENG,Europe,MF,Leicester City,22,1040000,28,23,2105,23.4,1,2,4,0,82,132,0.04,0.09,20,29,21,24,0,155,0,0,0
+Kiko Femenía,ESP,Europe,DF,Watford,30,1170000,27,26,2142,23.8,0,5,2,0,40,100,0,0.21,12,13,37,22,0,135,0,0,0
+Kortney Hause,ENG,Europe,DF,Aston Villa,26,420000,7,4,397,4.4,1,0,0,0,2,14,0.23,0,6,2,6,3,0,41,0,0,0
+Kostas Tsimikas,GRE,Europe,DF,Liverpool,25,3120000,13,9,877,9.7,0,2,3,0,48,47,0,0.21,20,6,10,12,0,62,0,0,0
+Kristoffer Ajer,NOR,Europe,DF,Brentford,23,1820000,24,23,1995,22.2,1,3,5,0,30,82,0.05,0.14,12,16,26,18,0,109,0,0,0
+Kristoffer Klaesson,NOR,Europe,GK,Leeds United,20,780000,1,0,36,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,100
+Kurt Zouma,FRA,Europe,DF,West Ham,26,6240000,24,24,2078,23.1,1,0,1,0,11,33,0.04,0,11,6,34,6,1,92,0,0,0
+Kyle Walker,ENG,Europe,DF,Manchester City,31,5720000,20,20,1755,19.5,0,2,1,0,43,146,0,0.1,7,12,14,6,0,104,0,0,0
+Kyle Walker-Peters,ENG,Europe,DF,Southampton,24,1040000,32,29,2633,29.3,1,2,5,0,134,147,0.03,0.07,27,47,37,33,0,187,0,0,0
+Leander Dendoncker,BEL,Europe,MF,Wolves,26,4680000,30,21,1950,21.7,2,2,4,0,9,64,0.09,0.09,13,6,9,17,0,107,0,0,0
+Leandro Trossard,BEL,Europe,FW,Brighton,26,2210000,34,32,2805,31.2,8,3,2,0,97,154,0.26,0.1,24,26,15,20,0,142,0,0,0
+Leon Bailey,JAM,North America,FW,Aston Villa,23,4420000,18,7,761,8.5,1,2,3,0,34,24,0.12,0.24,12,11,1,11,0,38,0,0,0
+Lewis Dunk,ENG,Europe,DF,Brighton,29,2340000,29,29,2573,28.6,1,0,3,1,14,83,0.03,0,9,4,27,8,0,170,0,0,0
+Liam Cooper,SCO,Europe,DF,Leeds United,29,338000,21,21,1814,20.2,0,1,5,0,7,46,0,0.05,19,9,43,23,0,118,0,0,0
+Liam McCarron,SCO,Europe,FW,Leeds United,20,40000,1,0,10,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Lucas Digne,FRA,Europe,DF,Aston Villa,28,8500000,13,13,1170,13,0,0,4,0,25,49,0,0,18,16,23,10,0,77,0,0,0
+Lucas Moura,BRA,South America,FW,Tottenham,28,4160000,34,19,1775,19.7,2,6,4,0,48,99,0.1,0.3,20,37,18,10,0,95,0,0,0
+Luis Díaz,COL,South America,FW,Liverpool,24,2912000,13,11,958,10.6,4,3,0,0,53,38,0.38,0.28,14,14,4,7,0,54,0,0,0
+Luka Milivojević,SRB,Europe,MF,Crystal Palace,30,2860000,15,9,774,8.6,0,0,1,0,2,37,0,0,15,10,11,9,1,58,0,0,0
+Lukas Rupp,GER,Europe,MF,Norwich City,30,1170000,19,7,769,8.5,0,0,0,0,17,35,0,0,7,8,9,4,0,55,0,0,0
+Łukasz Fabiański,POL,Europe,GK,West Ham,36,3380000,37,37,3330,37,0,0,2,0,0,0,0,0,1,7,0,0,0,21,50,111,70.4
+Luke Ayling,ENG,Europe,DF,Leeds United,29,416000,26,26,2272,25.2,2,2,4,1,45,135,0.08,0.08,22,19,28,42,0,187,0,0,0
+Luke Cundle,ENG,Europe,MF,Wolves,19,600000,4,2,180,2,0,0,0,0,3,9,0,0,3,1,1,3,0,12,0,0,0
+Luke Shaw,ENG,Europe,DF,Manchester Utd,26,7800000,20,19,1601,17.8,0,3,8,0,48,82,0,0.17,32,16,9,13,0,95,0,0,0
+Luke Thomas,ENG,Europe,DF,Leicester City,20,600000,22,21,1912,21.2,0,1,2,0,28,95,0,0.05,15,16,40,31,0,97,0,0,0
+Lyanco,BRA,South America,DF,Southampton,24,2600000,15,9,911,10.1,0,0,2,0,3,18,0,0,13,7,13,15,0,73,0,0,0
+Mads Bech Sørensen,DEN,Europe,DF,Brentford,22,210000,11,9,835,9.3,0,0,3,0,9,20,0,0,8,4,6,7,0,41,0,0,0
+Mads Bidstrup,DEN,Europe,MF,Brentford,20,520000,4,0,41,0.5,0,0,0,0,0,0,0,0,1,0,1,0,0,3,0,0,0
+Mads Roerslev,DEN,Europe,DF,Brentford,22,260000,21,12,1240,13.8,1,1,1,0,14,22,0.07,0.07,18,8,16,12,0,54,0,0,0
+Malang Sarr,FRA,Europe,DF,Chelsea,22,6240000,8,6,546,6.1,0,0,2,0,9,23,0,0,8,1,11,7,0,36,0,0,0
+Manuel Lanzini,ARG,South America,MF,West Ham,28,3640000,30,19,1786,19.8,5,3,2,0,29,119,0.25,0.15,11,18,19,15,0,124,0,0,0
+Marc Albrighton,ENG,Europe,FW,Leicester City,31,2340000,17,11,1132,12.6,1,2,3,0,21,26,0.08,0.16,6,13,14,19,0,65,0,0,0
+Marc Cucurella,ESP,Europe,DF,Brighton,23,2230000,35,35,3089,34.3,1,1,6,0,104,191,0.03,0.03,28,30,30,62,0,247,0,0,0
+Marc Guéhi,ENG,Europe,DF,Crystal Palace,21,2200000,36,36,3222,35.8,2,1,4,0,17,111,0.06,0.03,14,34,30,17,0,192,0,0,0
+Marcos Alonso,ESP,Europe,DF,Chelsea,30,5200000,28,25,2167,24.1,4,4,8,0,51,93,0.17,0.17,25,28,43,29,0,139,0,0,0
+Marcus Forss,FIN,Europe,FW,Brentford,22,260000,7,1,209,2.3,0,1,0,0,2,6,0,0.43,3,1,1,3,0,4,0,0,0
+Marcus Rashford,ENG,Europe,FW,Manchester Utd,23,10400000,25,13,1235,13.7,4,2,2,0,50,28,0.29,0.15,13,18,5,5,0,44,0,0,0
+Mark Noble,ENG,Europe,MF,West Ham,34,2600000,11,3,332,3.7,1,0,0,0,2,14,0.27,0,3,4,4,2,0,38,0,0,0
+Martin Dúbravka,SVK,Europe,GK,Newcastle Utd,32,1980000,26,26,2340,26,0,0,1,0,0,0,0,0,0,6,0,1,0,19,35,72,67.9
+Martin Ødegaard,NOR,Europe,MF,Arsenal,22,4110000,36,32,2785,30.9,7,4,4,0,57,224,0.23,0.13,27,20,11,21,0,162,0,0,0
+Marvelous Nakamba,ZIM,Africa,MF,Aston Villa,27,1690000,16,10,904,10,0,0,5,0,5,24,0,0,16,9,12,19,0,82,0,0,0
+Mason Greenwood,ENG,Europe,FW,Manchester Utd,19,3900000,18,16,1271,14.1,5,1,1,0,48,39,0.35,0.07,15,16,1,9,0,55,0,0,0
+Mason Holgate,ENG,Europe,DF,Everton,24,1300000,25,23,2134,23.7,2,1,7,1,4,40,0.08,0.04,26,15,26,18,1,105,0,0,0
+Mason Mount,ENG,Europe,MF,Chelsea,22,4600000,32,27,2363,26.3,11,10,4,0,92,164,0.42,0.38,30,23,13,16,0,107,0,0,0
+Matěj Vydra,CZE,Europe,FW,Burnley,29,1820000,22,5,679,7.5,2,3,1,0,2,7,0.27,0.4,9,8,0,7,0,14,0,0,0
+Mateo Kovačić,CRO,Europe,MF,Chelsea,27,7800000,25,16,1558,17.3,2,5,4,0,42,135,0.12,0.29,24,20,7,31,0,111,0,0,0
+Mateusz Klich,POL,Europe,MF,Leeds United,31,403000,33,26,2073,23,1,2,5,0,45,105,0.04,0.09,40,15,11,25,0,171,0,0,0
+Mathias Jensen,DEN,Europe,MF,Brentford,25,1040000,31,19,1601,17.8,0,1,0,0,14,103,0,0.06,19,6,22,18,0,100,0,0,0
+Mathias Jørgensen,DEN,Europe,DF,Brentford,31,1040000,8,6,518,5.8,1,0,2,0,5,18,0.17,0,10,1,10,4,0,20,0,0,0
+Mathias Normann,NOR,Europe,MF,Norwich City,25,1290000,23,20,1645,18.3,1,2,6,0,16,75,0.05,0.11,37,28,19,21,0,106,0,0,0
+Matt Doherty,IRL,Europe,DF,Tottenham,29,3400000,15,9,875,9.7,2,4,0,0,29,24,0.21,0.41,11,4,13,12,0,48,0,0,0
+Matt Ritchie,SCO,Europe,DF,Newcastle Utd,31,2340000,18,14,1337,14.9,0,2,5,0,8,48,0,0.13,13,9,13,15,0,70,0,0,0
+Matt Targett,ENG,Europe,DF,Aston Villa,25,1820000,16,16,1440,16,0,0,1,0,11,53,0,0,9,12,25,26,0,72,0,0,0
+Matthew Lowton,ENG,Europe,DF,Burnley,32,1300000,25,20,1772,19.7,1,2,3,1,21,74,0.05,0.1,13,6,26,24,0,118,0,0,0
+Matty Cash,POL,Europe,DF,Aston Villa,23,3380000,38,38,3377,37.5,4,3,8,0,89,96,0.11,0.08,38,38,49,50,0,190,0,0,0
+Max Aarons,ENG,Europe,DF,Norwich City,21,1170000,34,32,2881,32,0,2,8,0,78,117,0,0.06,27,52,28,44,1,154,0,0,0
+Max Kilman,ENG,Europe,DF,Wolves,24,780000,30,30,2687,29.9,1,0,3,0,31,95,0.03,0,17,11,45,26,0,155,0,0,0
+Maxwel Cornet,CIV,Africa,FW,Burnley,24,2340000,26,21,1766,19.6,9,1,2,0,28,30,0.46,0.05,20,20,10,9,0,81,0,0,0
+Michael Keane,ENG,Europe,DF,Everton,28,3380000,32,31,2792,31,3,2,4,1,9,79,0.1,0.06,16,7,62,25,2,149,0,0,0
+Michael Olise,FRA,Europe,FW,Crystal Palace,19,1820000,26,12,1141,12.7,2,5,4,0,55,63,0.16,0.39,16,27,6,18,0,66,0,0,0
+Michail Antonio,JAM,North America,FW,West Ham,31,3640000,36,34,2971,33,10,8,8,1,77,46,0.3,0.24,50,52,3,17,0,90,0,0,0
+Miguel Almirón,PAR,South America,MF,Newcastle Utd,27,2200000,30,19,1716,19.1,1,0,2,0,44,46,0.05,0,17,25,20,29,0,96,0,0,0
+Milot Rashica,KVX,Europe,FW,Norwich City,25,2080000,31,25,2229,24.8,1,2,0,0,76,46,0.04,0.08,23,47,15,19,0,110,0,0,0
+Mohamed Elneny,EGY,Africa,MF,Arsenal,29,2600000,14,8,806,9,0,2,1,0,5,43,0,0.22,5,5,14,8,0,51,0,0,0
+Mohamed Elyounoussi,NOR,Europe,MF,Southampton,26,3120000,30,23,2042,22.7,4,2,4,0,59,81,0.18,0.09,28,18,12,17,0,82,0,0,0
+Mohamed Salah,EGY,Africa,FW,Liverpool,29,10400000,35,30,2762,30.7,23,13,1,0,125,122,0.75,0.42,12,23,6,8,0,86,0,0,0
+Mohammed Salisu,GHA,Africa,DF,Southampton,22,1200000,34,33,2972,33,0,0,10,1,31,136,0,0,38,7,78,47,1,244,0,0,0
+Moisés Caicedo,ECU,South America,MF,Brighton,19,180000,8,8,660,7.3,1,1,2,0,9,22,0.14,0.14,7,11,10,10,0,56,0,0,0
+Morgan Sanson,FRA,Europe,MF,Aston Villa,26,2500000,10,3,356,4,0,0,0,0,16,21,0,0,3,13,10,8,0,33,0,0,0
+Moussa Djenepo,MLI,Africa,MF,Southampton,23,2860000,12,5,457,5.1,0,0,3,0,20,18,0,0,9,10,2,3,0,28,0,0,0
+Moussa Sissoko,FRA,Europe,MF,Watford,31,4160000,36,36,3220,35.8,2,1,5,0,51,116,0.06,0.03,35,11,30,27,0,241,0,0,0
+N'Golo Kanté,FRA,Europe,MF,Chelsea,30,15050000,26,21,1773,19.7,2,4,2,0,72,159,0.1,0.2,22,11,31,31,0,153,0,0,0
+Naby Keïta,GUI,Africa,MF,Liverpool,26,6240000,23,14,1173,13,3,1,3,0,39,75,0.23,0.08,21,9,14,23,0,68,0,0,0
+Nampalys Mendy,SEN,Africa,MF,Leicester City,29,2860000,14,12,1032,11.5,0,0,3,0,9,36,0,0,17,18,11,6,0,72,0,0,0
+Nathan Aké,NED,Europe,DF,Manchester City,26,4800000,14,10,923,10.3,2,0,0,0,12,57,0.2,0,9,2,8,9,0,43,0,0,0
+Nathan Collins,IRL,Europe,DF,Burnley,20,780000,19,18,1670,18.6,2,0,2,1,7,44,0.11,0,20,12,24,15,0,128,0,0,0
+Nathan Ferguson,ENG,Europe,DF,Crystal Palace,20,1500000,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nathan Redmond,ENG,Europe,MF,Southampton,27,3120000,27,20,1833,20.4,1,5,0,0,71,95,0.05,0.25,16,15,8,14,0,102,0,0,0
+Nathan Tella,NGA,Africa,MF,Southampton,22,650000,14,10,804,8.9,0,1,2,0,22,17,0,0.11,17,22,6,9,0,54,0,0,0
+Nathaniel Clyne,ENG,Europe,DF,Crystal Palace,30,4200000,16,15,1351,15,0,1,1,0,14,36,0,0.07,3,5,15,10,0,73,0,0,0
+Neal Maupay,FRA,Europe,FW,Brighton,24,2600000,32,25,2276,25.3,8,2,7,0,21,48,0.32,0.08,33,31,2,10,0,76,0,0,0
+Neco Williams,WAL,Europe,DF,Liverpool,20,1300000,1,0,8,0.1,0,1,0,0,1,0,0,11.25,0,0,0,0,0,0,0,0,0
+Nélson Semedo,POR,Europe,MF,Wolves,27,4000000,25,25,2131,23.7,0,1,1,0,79,78,0,0.04,23,24,21,39,0,155,0,0,0
+Nemanja Matić,SRB,Europe,MF,Manchester Utd,32,6240000,23,16,1382,15.4,0,4,3,0,32,98,0,0.26,26,3,31,18,0,124,0,0,0
+Nick Pope,ENG,Europe,GK,Burnley,29,1820000,36,36,3240,36,0,0,1,0,0,0,0,0,0,4,2,0,0,50,47,119,74.5
+Nicolas Nkoulou,CMR,Africa,DF,Watford,31,1280000,3,2,168,1.9,0,0,0,0,0,2,0,0,1,0,2,0,0,9,0,0,0
+Nicolas Pépé,CIV,Africa,FW,Arsenal,26,7280000,20,5,696,7.7,1,2,0,0,20,17,0.13,0.26,8,3,8,5,0,43,0,0,0
+Nikola Vlašić,CRO,Europe,FW,West Ham,23,3640000,19,6,560,6.2,1,0,0,0,21,14,0.16,0,8,16,2,7,0,30,0,0,0
+Nuno Tavares,POR,Europe,DF,Arsenal,21,1404000,22,13,1176,13.1,1,1,2,0,47,42,0.08,0.08,23,13,9,14,0,68,0,0,0
+Odsonne Édouard,FRA,Europe,FW,Crystal Palace,23,4160000,28,18,1564,17.4,6,3,4,0,42,42,0.35,0.17,25,6,0,10,0,62,0,0,0
+Oghenekaro Etebo,NGA,Africa,MF,Watford,25,1560000,9,4,401,4.5,0,0,3,0,3,16,0,0,8,3,5,8,0,31,0,0,0
+Oleksandr Zinchenko,UKR,Europe,DF,Manchester City,24,1040000,15,10,1047,11.6,0,4,0,0,32,113,0,0.34,11,2,14,14,0,65,0,0,0
+Oliver Skipp,ENG,Europe,MF,Tottenham,20,780000,18,14,1350,15,0,0,6,0,27,76,0,0,16,16,12,19,0,77,0,0,0
+Ollie Watkins,ENG,Europe,FW,Aston Villa,25,3900000,35,33,2952,32.8,11,2,7,0,74,60,0.34,0.06,33,39,12,13,0,66,0,0,0
+Oriol Romeu,ESP,Europe,MF,Southampton,29,3380000,36,34,2889,32.1,2,2,9,0,38,156,0.06,0.06,46,24,51,39,0,259,0,0,0
+Ozan Kabak,TUR,Asia,DF,Norwich City,21,1710000,11,11,922,10.2,0,0,2,0,9,20,0,0,10,10,16,5,0,50,0,0,0
+Ozan Tufan,TUR,Asia,MF,Watford,26,1720000,7,4,334,3.7,0,0,0,0,2,16,0,0,9,0,2,2,0,13,0,0,0
+Pablo Fornals,ESP,Europe,FW,West Ham,25,3500000,36,32,2795,31.1,6,3,4,0,49,191,0.19,0.1,24,28,27,28,0,182,0,0,0
+Pablo Marí,ESP,Europe,DF,Arsenal,27,4420000,2,2,180,2,0,0,1,0,0,9,0,0,1,1,3,3,0,10,0,0,0
+Pascal Groß,GER,Europe,MF,Brighton,30,2600000,29,24,2038,22.6,2,4,1,0,39,149,0.09,0.18,15,6,18,15,0,119,0,0,0
+Pascal Struijk,NED,Europe,DF,Leeds United,21,370000,29,22,2055,22.8,1,0,6,1,8,86,0.04,0,25,8,33,39,0,161,0,0,0
+Patrick Bamford,ENG,Europe,FW,Leeds United,27,1820000,9,7,559,6.2,2,2,2,0,8,12,0.32,0.32,5,5,2,0,0,12,0,0,0
+Patson Daka,ZAM,Africa,FW,Leicester City,22,4160000,23,13,1159,12.9,5,3,2,0,10,17,0.39,0.23,17,14,2,10,0,29,0,0,0
+Paul Dummett,WAL,Europe,DF,Newcastle Utd,29,1820000,3,2,198,2.2,0,0,2,0,0,5,0,0,3,3,3,3,0,5,0,0,0
+Paul Pogba,FRA,Europe,MF,Manchester Utd,28,15080000,20,16,1349,15,1,9,7,1,34,117,0.07,0.6,39,29,13,9,0,98,0,0,0
+Pedro Neto,POR,Europe,FW,Wolves,21,2600000,13,5,466,5.2,1,1,3,0,27,10,0.19,0.19,2,6,6,4,0,21,0,0,0
+Phil Foden,ENG,Europe,FW,Manchester City,21,620000,28,24,2128,23.6,9,5,1,0,71,98,0.38,0.21,15,23,11,8,0,83,0,0,0
+Phil Jones,ENG,Europe,DF,Manchester Utd,29,3900000,4,2,163,1.8,0,0,0,0,1,2,0,0,0,2,3,5,0,9,0,0,0
+Philippe Coutinho,BRA,South America,MF,Aston Villa,29,6500000,19,16,1329,14.8,5,3,0,0,48,94,0.34,0.2,8,20,7,12,0,53,0,0,0
+Pierre Højbjerg,DEN,Europe,MF,Tottenham,25,5300000,36,36,3196,35.5,2,2,3,0,46,242,0.06,0.06,28,39,48,45,0,281,0,0,0
+Pierre Lees-Melou,FRA,Europe,MF,Norwich City,28,1820000,33,27,2265,25.2,1,0,5,0,33,114,0.04,0,35,23,25,36,0,181,0,0,0
+Pierre-Emerick Aubameyang,GAB,Africa,FW,Arsenal,32,13000000,14,12,1037,11.5,4,1,3,0,21,26,0.35,0.09,15,8,0,5,0,22,0,0,0
+Pontus Jansson,SWE,Europe,DF,Brentford,30,1300000,37,37,3321,36.9,3,1,7,0,4,67,0.08,0.03,15,8,52,21,0,166,0,0,0
+Przemysław Płacheta,POL,Europe,FW,Norwich City,23,320000,12,6,504,5.6,0,0,1,0,19,10,0,0,1,6,2,3,0,25,0,0,0
+Raheem Sterling,ENG,Europe,FW,Manchester City,26,15600000,30,23,2128,23.6,13,5,1,0,108,65,0.55,0.21,19,37,12,10,0,86,0,0,0
+Raphaël Varane,FRA,Europe,DF,Manchester Utd,28,17680000,22,20,1831,20.3,1,1,0,0,11,49,0.05,0.05,5,7,18,19,0,78,0,0,0
+Raphinha,BRA,South America,FW,Leeds United,24,3302000,35,34,2915,32.4,11,3,7,0,89,134,0.34,0.09,40,47,29,29,0,166,0,0,0
+Raúl Jiménez,MEX,North America,FW,Wolves,30,2140000,34,30,2631,29.2,6,4,9,2,40,65,0.21,0.14,43,48,13,14,0,88,0,0,0
+Rayan Aït Nouri,ALG,Africa,DF,Wolves,20,234000,23,20,1828,20.3,1,2,4,0,60,49,0.05,0.1,14,20,22,36,0,128,0,0,0
+Reece James,ENG,Europe,DF,Chelsea,21,3020000,26,22,1864,20.7,5,9,4,1,52,149,0.24,0.43,20,31,17,25,1,99,0,0,0
+Ricardo Pereira,POR,Europe,DF,Leicester City,27,3640000,14,13,991,11,1,3,3,0,28,43,0.09,0.27,6,16,17,20,0,64,0,0,0
+Richarlison,BRA,South America,FW,Everton,24,4680000,30,28,2523,28,10,5,9,0,44,42,0.36,0.18,36,68,12,23,0,114,0,0,0
+Rico Henry,ENG,Europe,DF,Brentford,24,620000,34,33,2776,30.8,3,0,2,0,61,81,0.1,0,20,27,26,20,0,189,0,0,0
+Riyad Mahrez,ALG,Africa,FW,Manchester City,30,6240000,28,15,1498,16.6,11,5,0,0,74,70,0.66,0.3,10,15,6,3,0,70,0,0,0
+Rob Holding,ENG,Europe,DF,Arsenal,25,2080000,15,9,845,9.4,1,0,4,1,4,23,0.11,0,9,3,10,9,0,49,0,0,0
+Robert Sánchez,ESP,Europe,GK,Brighton,23,520000,37,37,3329,37,0,0,3,1,0,1,0,0,1,2,0,1,0,61,42,99,72.3
+Roberto Firmino,BRA,South America,FW,Liverpool,29,9360000,20,10,990,11,5,4,3,0,27,40,0.45,0.36,7,6,4,14,0,53,0,0,0
+Robin Koch,GER,Europe,MF,Leeds United,25,2400000,20,17,1574,17.5,0,0,3,0,3,52,0,0,22,10,20,13,0,104,0,0,0
+Robin Olsen,SWE,Europe,GK,Aston Villa,31,1000000,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,40
+Rodri,ESP,Europe,MF,Manchester City,25,6300000,33,33,2884,32,7,2,5,0,43,285,0.22,0.06,43,20,28,43,0,292,0,0,0
+Rodrigo,ESP,Europe,MF,Leeds United,30,3000000,31,27,2265,25.2,6,1,9,0,47,105,0.24,0.04,21,30,11,9,0,103,0,0,0
+Rodrigo Bentancur,URU,South America,MF,Tottenham,24,3900000,17,16,1361,15.1,0,4,5,0,20,76,0,0.26,22,13,20,18,0,88,0,0,0
+Romain Perraud,FRA,Europe,DF,Southampton,23,2080000,20,18,1623,18,0,1,3,0,34,48,0,0.06,31,16,17,22,0,77,0,0,0
+Romain Saïss,MAR,Africa,DF,Wolves,31,1140000,31,31,2705,30.1,2,0,6,0,18,137,0.07,0,30,15,58,27,0,157,0,0,0
+Romelu Lukaku,BEL,Europe,FW,Chelsea,28,16900000,26,16,1589,17.7,8,0,1,0,29,19,0.45,0,8,12,0,1,0,33,0,0,0
+Ross Barkley,ENG,Europe,MF,Chelsea,27,5000000,6,1,179,2,1,0,0,0,14,14,0.5,0,2,4,1,0,0,17,0,0,0
+Rúben Dias,POR,Europe,DF,Manchester City,24,8320000,29,27,2402,26.7,2,4,5,0,33,139,0.07,0.15,27,9,23,19,0,108,0,0,0
+Ruben Loftus-Cheek,ENG,Europe,MF,Chelsea,25,3120000,24,13,1394,15.5,0,2,1,0,69,108,0,0.13,18,41,11,10,0,109,0,0,0
+Rúben Neves,POR,Europe,MF,Wolves,24,2600000,33,31,2661,29.6,4,2,9,0,34,202,0.14,0.07,25,12,41,37,0,243,0,0,0
+Ryan Bertrand,ENG,Europe,DF,Leicester City,31,4160000,4,4,337,3.7,0,0,1,0,2,17,0,0,3,1,1,5,0,11,0,0,0
+Ryan Fraser,SCO,Europe,FW,Newcastle Utd,27,1820000,27,18,1465,16.3,2,3,3,0,35,34,0.12,0.18,10,24,11,3,0,61,0,0,0
+Ryan Fredericks,ENG,Europe,DF,West Ham,28,2080000,7,3,307,3.4,0,0,1,0,4,6,0,0,3,1,4,2,0,11,0,0,0
+Ryan Sessegnon,ENG,Europe,DF,Tottenham,21,3000000,15,13,1047,11.6,0,2,2,0,30,22,0,0.17,19,7,7,19,0,40,0,0,0
+Sadio Mané,SEN,Africa,FW,Liverpool,29,5200000,34,32,2819,31.3,16,2,5,0,105,130,0.51,0.06,50,50,8,20,0,109,0,0,0
+Saïd Benrahma,ALG,Africa,FW,West Ham,25,1040000,32,26,2168,24.1,8,6,0,0,73,73,0.33,0.25,9,15,9,17,0,128,0,0,0
+Salomón Rondón,VEN,South America,FW,Everton,31,2340000,20,8,790,8.8,1,1,3,1,5,9,0.11,0.11,12,4,0,1,0,20,0,0,0
+Sam Byram,ENG,Europe,DF,Norwich City,27,1560000,15,11,1027,11.4,0,0,3,0,11,23,0,0,12,4,22,15,0,57,0,0,0
+Sam Greenwood,ENG,Europe,MF,Leeds United,19,70000,7,1,237,2.6,0,2,0,0,3,5,0,0.76,7,2,2,5,0,14,0,0,0
+Saman Ghoddos,IRN,Asia,MF,Brentford,27,780000,17,4,536,6,1,1,2,0,7,25,0.17,0.17,12,10,3,10,0,36,0,0,0
+Samir Santos,BRA,South America,DF,Watford,26,610000,19,19,1673,18.6,0,0,4,0,1,24,0,0,17,16,43,11,0,103,0,0,0
+Samuel Kalu,NGA,Africa,FW,Watford,23,730000,4,2,222,2.5,0,0,0,0,7,8,0,0,0,4,3,2,0,9,0,0,0
+Saúl Ñíguez,ESP,Europe,DF,Chelsea,26,10310000,10,5,480,5.3,0,0,1,0,4,15,0,0,9,0,7,9,0,18,0,0,0
+Scott McTominay,SCO,Europe,MF,Manchester Utd,24,3120000,30,28,2387,26.5,1,1,9,0,40,125,0.04,0.04,55,33,31,33,0,171,0,0,0
+Sead Kolašinac,BIH,Europe,DF,Arsenal,28,5200000,2,1,91,1,0,0,1,0,0,0,0,0,2,0,4,0,0,2,0,0,0
+Séamus Coleman,IRL,Europe,DF,Everton,32,3640000,30,30,2656,29.5,1,0,4,0,40,96,0.03,0,14,17,32,36,1,188,0,0,0
+Sean Longstaff,ENG,Europe,MF,Newcastle Utd,23,50000,24,15,1464,16.3,1,1,1,0,2,43,0.06,0.06,14,17,9,34,0,95,0,0,0
+Sergi Canós,ESP,Europe,DF,Brentford,24,780000,31,25,2083,23.1,3,2,8,1,52,59,0.13,0.09,28,15,22,25,1,183,0,0,0
+Sergio Reguilón,ESP,Europe,DF,Tottenham,24,2756000,25,22,1916,21.3,2,3,4,0,63,50,0.09,0.14,22,24,31,24,0,99,0,0,0
+Shandon Baptiste,GRN,North America,MF,Brentford,23,620000,22,9,910,10.1,1,0,2,1,14,35,0.1,0,6,11,11,4,0,62,0,0,0
+Shane Duffy,IRL,Europe,DF,Brighton,29,2080000,18,15,1436,16,1,0,7,0,3,41,0.06,0,15,5,16,12,0,68,0,0,0
+Shane Long,IRL,Europe,FW,Southampton,34,3120000,13,3,308,3.4,1,0,1,0,5,3,0.29,0,9,8,0,5,0,9,0,0,0
+Solly March,ENG,Europe,DF,Brighton,27,1560000,31,17,1746,19.4,0,2,1,0,71,69,0,0.1,31,20,17,17,0,92,0,0,0
+Son Heung-min,KOR,Asia,MF,Tottenham,29,9984000,35,35,3006,33.4,23,7,2,0,116,90,0.69,0.21,14,36,13,6,0,144,0,0,0
+Steven Alzate,COL,South America,MF,Brighton,22,780000,9,5,404,4.5,0,0,0,0,3,21,0,0,6,4,10,4,0,39,0,0,0
+Steven Bergwijn,NED,Europe,FW,Tottenham,23,3900000,25,4,565,6.3,3,1,1,0,26,17,0.48,0.16,9,9,1,2,0,22,0,0,0
+Stuart Armstrong,SCO,Europe,MF,Southampton,29,2600000,25,15,1473,16.4,2,0,1,0,63,83,0.12,0,11,20,8,19,0,94,0,0,0
+Stuart Dallas,NIR,Europe,DF,Leeds United,30,416000,34,34,2919,32.4,1,1,5,0,82,170,0.03,0.03,33,30,57,55,0,219,0,0,0
+Takehiro Tomiyasu,JPN,Asia,DF,Arsenal,22,2910000,21,20,1679,18.7,0,1,2,0,32,96,0,0.05,16,13,24,17,0,89,0,0,0
+Takumi Minamino,JPN,Asia,FW,Liverpool,26,3900000,11,1,186,2.1,3,0,1,0,2,5,1.45,0,4,4,1,2,0,13,0,0,0
+Tanguy Ndombele,FRA,Europe,MF,Tottenham,24,10400000,9,6,484,5.4,1,1,1,0,14,21,0.19,0.19,3,9,1,7,0,27,0,0,0
+Tariq Lamptey,GHA,Africa,DF,Brighton,20,1820000,30,16,1561,17.3,0,2,4,0,81,36,0,0.12,27,50,21,25,0,100,0,0,0
+Tariqe Fosu,GHA,Africa,DF,Brentford,25,260000,1,0,17,0.2,0,0,0,0,3,1,0,0,0,1,0,0,0,1,0,0,0
+Taylor Richards,ENG,Europe,MF,Brighton,20,780000,2,0,25,0.3,0,0,0,0,1,3,0,0,1,1,0,0,0,3,0,0,0
+Teemu Pukki,FIN,Europe,FW,Norwich City,31,1300000,37,37,3253,36.1,11,3,4,0,62,34,0.3,0.08,31,25,4,11,0,76,0,0,0
+Theo Walcott,ENG,Europe,MF,Southampton,32,3900000,9,5,379,4.2,0,0,0,0,3,5,0,0,1,6,5,2,0,12,0,0,0
+Thiago Alcántara,ESP,Europe,MF,Liverpool,30,10400000,25,17,1534,17,1,4,2,0,24,214,0.06,0.23,19,13,26,29,0,126,0,0,0
+Thiago Silva,BRA,South America,DF,Chelsea,36,5720000,32,28,2650,29.4,3,0,2,0,14,145,0.1,0,12,12,44,21,0,214,0,0,0
+Thomas Partey,GHA,Africa,MF,Arsenal,28,10400000,24,23,2028,22.5,2,1,6,0,20,119,0.09,0.04,33,17,23,29,0,153,0,0,0
+Tim Krul,NED,Europe,GK,Norwich City,33,1300000,29,29,2610,29,0,0,1,0,0,1,0,0,0,0,0,1,1,19,62,105,66.7
+Timo Werner,GER,Europe,FW,Chelsea,25,14140000,21,15,1283,14.3,4,1,1,0,46,18,0.28,0.07,11,12,2,4,0,37,0,0,0
+Timothy Castagne,BEL,Europe,DF,Leicester City,25,3276000,27,22,2127,23.6,1,0,1,0,32,72,0.04,0,15,7,29,31,0,102,0,0,0
+Todd Cantwell,ENG,Europe,FW,Norwich City,23,1300000,8,5,441,4.9,0,0,2,0,2,10,0,0,4,12,3,13,0,22,0,0,0
+Tom Cleverley,ENG,Europe,MF,Watford,31,2600000,28,20,1616,18,0,2,2,0,8,64,0,0.11,28,19,18,20,0,81,0,0,0
+Tom Davies,ENG,Europe,MF,Everton,23,1300000,6,2,234,2.6,1,0,1,0,1,7,0.38,0,4,3,2,1,0,9,0,0,0
+Tomáš Souček,CZE,Europe,MF,West Ham,26,3500000,35,34,3062,34,5,1,3,0,36,141,0.15,0.03,39,18,52,32,0,176,0,0,0
+Toti Gomes,POR,Europe,DF,Wolves,22,140000,4,4,360,4,0,0,1,0,2,7,0,0,2,3,8,7,0,17,0,0,0
+Trent Alexander-Arnold,ENG,Europe,DF,Liverpool,22,9360000,32,32,2853,31.7,2,12,2,0,53,267,0.06,0.38,12,7,43,23,0,235,0,0,0
+Trevoh Chalobah,ENG,Europe,DF,Chelsea,22,620000,20,17,1449,16.1,3,1,2,0,24,88,0.19,0.06,19,14,19,27,0,74,0,0,0
+Trézéguet,EGY,Africa,FW,Aston Villa,26,2730000,1,0,11,0.1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Tyler Roberts,WAL,Europe,MF,Leeds United,22,182000,23,7,987,11,1,1,5,0,17,29,0.09,0.09,14,20,5,7,0,47,0,0,0
+Tyrick Mitchell,ENG,Europe,DF,Crystal Palace,21,1500000,36,35,3101,34.5,0,2,1,0,41,134,0,0.06,15,14,41,57,0,237,0,0,0
+Tyrone Mings,ENG,Europe,DF,Aston Villa,28,4160000,36,35,3189,35.4,1,3,11,0,23,91,0.03,0.08,27,24,46,12,0,191,0,0,0
+Valentino Livramento,ENG,Europe,DF,Southampton,18,520000,28,25,2202,24.5,1,1,2,0,79,80,0.04,0.04,12,36,47,28,0,176,0,0,0
+Vicente Guaita,ESP,Europe,GK,Crystal Palace,34,4000000,30,30,2655,29.5,0,0,2,0,0,0,0,0,1,2,1,0,0,22,33,83,74.1
+Victor Lindelöf,SWE,Europe,DF,Manchester Utd,27,6240000,28,26,2355,26.2,0,2,4,0,14,72,0,0.08,19,6,25,11,0,161,0,0,0
+Virgil van Dijk,NED,Europe,DF,Liverpool,30,11440000,34,34,3060,34,3,1,3,0,11,145,0.09,0.03,9,8,31,10,0,204,0,0,0
+Vitaliy Mykolenko,UKR,Europe,DF,Everton,22,1670000,13,12,1055,11.7,1,0,0,0,8,27,0.09,0,13,9,16,15,0,64,0,0,0
+Vitaly Janelt,GER,Europe,MF,Brentford,23,520000,31,27,2298,25.5,4,0,3,0,25,103,0.16,0,26,25,28,32,0,143,0,0,0
+Vladimír Coufal,CZE,Europe,DF,West Ham,28,1820000,28,25,2209,24.5,0,4,5,1,51,113,0,0.16,29,15,22,25,1,131,0,0,0
+Wayne Hennessey,WAL,Europe,GK,Burnley,34,1300000,2,2,180,2,0,0,0,0,0,0,0,0,0,1,1,0,0,3,6,8,53.8
+Wesley Fofana,FRA,Europe,DF,Leicester City,20,1000000,7,7,630,7,0,0,2,0,10,28,0,0,7,7,12,8,0,43,0,0,0
+Wilfred Ndidi,NGA,Africa,MF,Leicester City,24,3900000,19,18,1618,18,0,0,4,0,14,57,0,0,30,22,42,32,0,165,0,0,0
+Wilfried Zaha,CIV,Africa,FW,Crystal Palace,28,6760000,33,31,2760,30.7,14,1,6,1,113,121,0.46,0.03,37,101,5,20,0,166,0,0,0
+Will Hughes,ENG,Europe,MF,Crystal Palace,26,2080000,16,13,1053,11.7,0,1,6,0,5,38,0,0.09,18,17,8,14,0,84,0,0,0
+William Smallbone,IRL,Europe,MF,Southampton,21,900000,4,2,133,1.5,0,0,0,0,4,2,0,0,2,1,2,4,0,12,0,0,0
+William Troost-Ekong,NGA,Africa,DF,Watford,27,1430000,17,15,1390,15.4,0,0,3,0,7,30,0,0,13,2,7,9,0,74,0,0,0
+Willy Boly,CIV,Africa,DF,Wolves,30,2600000,10,10,900,10,0,0,1,0,6,20,0,0,7,2,14,19,0,62,0,0,0
+Willy Caballero,ARG,South America,GK,Southampton,39,890000,2,2,180,2,0,0,1,0,0,0,0,0,0,0,0,0,0,4,5,6,54.5
+Wout Weghorst,NED,Europe,FW,Burnley,28,1700000,20,17,1450,16.1,2,3,3,0,7,26,0.12,0.19,30,18,6,9,0,65,0,0,0
+Yan Valery,TUN,Africa,DF,Southampton,22,100000,5,3,370,4.1,0,0,0,0,3,10,0,0,3,3,6,6,0,27,0,0,0
+Yerry Mina,COL,South America,DF,Everton,26,6240000,13,11,846,9.4,0,0,3,0,1,20,0,0,5,9,11,10,0,45,0,0,0
+Yoane Wissa,COD,Africa,FW,Brentford,24,1300000,30,12,1284,14.3,7,1,0,0,19,29,0.49,0.07,8,22,8,6,0,58,0,0,0
+Youri Tielemans,BEL,Europe,MF,Leicester City,24,1720000,32,29,2631,29.2,6,4,3,0,31,202,0.21,0.14,32,36,21,38,0,188,0,0,0
+Yves Bissouma,MLI,Africa,MF,Brighton,24,1300000,26,25,2111,23.5,1,2,10,0,40,92,0.04,0.09,30,19,50,49,0,161,0,0,0
+Zack Steffen,USA,North America,GK,Manchester City,26,2392000,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,100
+Adrián,ESP,Europe,GK,Liverpool,34,3020000,,,,,,,,,,,,,,,,,,,,,
+Amad Diallo,CIV,Africa,FW,Manchester Utd,19,1500000,,,,,,,,,,,,,,,,,,,,,
+Andy Lonergan,IRL,Europe,GK,Everton,37,260000,,,,,,,,,,,,,,,,,,,,,
+Arthur Okonkwo,ENG,Europe,GK,Arsenal,19,80000,,,,,,,,,,,,,,,,,,,,,
+Billy Arce,ECU,South America,LW,Brighton,23,250000,,,,,,,,,,,,,,,,,,,,,
+Brandon Austin,ENG,Europe,GK,Tottenham,22,80000,,,,,,,,,,,,,,,,,,,,,
+Bruno Jordão,POR,Europe,MF,Wolves,22,780000,,,,,,,,,,,,,,,,,,,,,
+Charly Musonda Jr.,BEL,Europe,AM,Chelsea,25,2080000,,,,,,,,,,,,,,,,,,,,,
+Darren Randolph,IRL,Europe,GK,West Ham,34,1950000,,,,,,,,,,,,,,,,,,,,,
+David Martin,ENG,Europe,GK,West Ham,36,416000,,,,,,,,,,,,,,,,,,,,,
+Dean Henderson,ENG,Europe,GK,Manchester Utd,24,5200000,,,,,,,,,,,,,,,,,,,,,
+Eldin Jakupović,SUI,Europe,GK,Leicester City,36,1200000,,,,,,,,,,,,,,,,,,,,,
+Ellery Balcombe,ENG,Europe,GK,Brentford,22,170000,,,,,,,,,,,,,,,,,,,,,
+Filip Benković,CRO,Europe,CB,Leicester City,24,1560000,,,,,,,,,,,,,,,,,,,,,
+Flynn Clarke,SCO,Europe,AM,Norwich City,18,40000,,,,,,,,,,,,,,,,,,,,,
+Gylfi Sigurðsson,ISL,Europe,AM,Everton,32,5200000,,,,,,,,,,,,,,,,,,,,,
+Harry Lewis,ENG,Europe,GK,Southampton,23,1100000,,,,,,,,,,,,,,,,,,,,,
+Haydon Roberts,ENG,Europe,DF,Brighton,19,210000,,,,,,,,,,,,,,,,,,,,,
+Jack Clarke,ENG,Europe,RW,Tottenham,20,1600000,,,,,,,,,,,,,,,,,,,,,
+Jan Žambůrek,CZE,Europe,CM,Brentford,20,160000,,,,,,,,,,,,,,,,,,,,,
+Jarosław Jach,POL,Europe,CB,Crystal Palace,27,520000,,,,,,,,,,,,,,,,,,,,,
+Joel Valencia,ECU,South America,LW,Brentford,26,780000,,,,,,,,,,,,,,,,,,,,,
+Julian Jeanvier,GUI,Africa,DF,Brentford,29,650000,,,,,,,,,,,,,,,,,,,,,
+Kayky,BRA,South America,RW,Manchester City,18,700000,,,,,,,,,,,,,,,,,,,,,
+Kjell Scherpen,NED,Europe,GK,Brighton,21,1040000,,,,,,,,,,,,,,,,,,,,,
+Kwadwo Baah,ENG,Europe,MF,Watford,18,100000,,,,,,,,,,,,,,,,,,,,,
+Lee Grant,ENG,Europe,GK,Manchester Utd,39,1560000,,,,,,,,,,,,,,,,,,,,,
+Lewis Baker,ENG,Europe,CM,Chelsea,26,2250000,,,,,,,,,,,,,,,,,,,,,
+Loris Karius,GER,Europe,GK,Liverpool,28,1300000,,,,,,,,,,,,,,,,,,,,,
+Luka Racic,DEN,Europe,CB,Brentford,22,260000,,,,,,,,,,,,,,,,,,,,,
+Marc Navarro,ESP,Europe,RB,Watford,26,910000,,,,,,,,,,,,,,,,,,,,,
+Marcus Bettinelli,ENG,Europe,GK,Chelsea,29,1820000,,,,,,,,,,,,,,,,,,,,,
+Mark Gillespie,ENG,Europe,GK,Newcastle Utd,29,600000,,,,,,,,,,,,,,,,,,,,,
+Martin Kelly,ENG,Europe,DF,Crystal Palace,31,1300000,,,,,,,,,,,,,,,,,,,,,
+Matija Šarkić,MNE,Europe,GK,Wolves,24,650000,,,,,,,,,,,,,,,,,,,,,
+Michael McGovern,NIR,Europe,GK,Norwich City,37,880000,,,,,,,,,,,,,,,,,,,,,
+Myles Peart-Harris,ENG,Europe,MF,Brentford,18,260000,,,,,,,,,,,,,,,,,,,,,
+Nathan Patterson,SCO,Europe,DF,Everton,19,810000,,,,,,,,,,,,,,,,,,,,,
+Nathaniel Phillips,ENG,Europe,DF,Liverpool,24,3360000,,,,,,,,,,,,,,,,,,,,,
+Oskar Buur,DEN,Europe,RB,Wolves,23,2000000,,,,,,,,,,,,,,,,,,,,,
+Phil Bardsley,SCO,Europe,DF,Burnley,36,1300000,,,,,,,,,,,,,,,,,,,,,
+Pierluigi Gollini,ITA,Europe,GK,Tottenham,26,1300000,,,,,,,,,,,,,,,,,,,,,
+Remi Matthews,ENG,Europe,GK,Crystal Palace,27,260000,,,,,,,,,,,,,,,,,,,,,
+Rhys Williams,ENG,Europe,DF,Liverpool,20,520000,,,,,,,,,,,,,,,,,,,,,
+Rob Elliot,IRL,Europe,GK,Watford,35,850000,,,,,,,,,,,,,,,,,,,,,
+Rocky Bushiri,BEL,Europe,CB,Norwich City,21,260000,,,,,,,,,,,,,,,,,,,,,
+Sam McQueen,ENG,Europe,LB,Southampton,26,420000,,,,,,,,,,,,,,,,,,,,,
+Santiago Muñóz,MEX,North America,CF,Newcastle Utd,19,120000,,,,,,,,,,,,,,,,,,,,,
+Scott Carson,ENG,Europe,GK,Manchester City,35,1300000,,,,,,,,,,,,,,,,,,,,,
+Tahith Chong,NED,Europe,RW,Manchester Utd,22,1040000,,,,,,,,,,,,,,,,,,,,,
+Thierry Small,ENG,Europe,DF,Southampton,16,20000,,,,,,,,,,,,,,,,,,,,,
+Tom Heaton,ENG,Europe,GK,Manchester Utd,35,2180000,,,,,,,,,,,,,,,,,,,,,
+Tudor Băluță,ROU,Europe,DM,Brighton,22,470000,,,,,,,,,,,,,,,,,,,,,
+Will Norris,ENG,Europe,GK,Burnley,27,300000,,,,,,,,,,,,,,,,,,,,,
+Winston Reid,NZL,Oceania,CB,West Ham,33,3640000,,,,,,,,,,,,,,,,,,,,,
+Yaser Asprilla,COL,South America,AM,Watford,18,100000,,,,,,,,,,,,,,,,,,,,,
+Yerson Mosquera,COL,South America,DF,Wolves,20,520000,,,,,,,,,,,,,,,,,,,,,
